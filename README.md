@@ -1,4 +1,4 @@
-Link of my model deployed n hygging face:-
+Link of my model deployed on hugging face:-
 https://huggingface.co/spaces/gaur3009/Knight_Engine
 
 
